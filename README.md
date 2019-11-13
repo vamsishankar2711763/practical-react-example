@@ -1,2 +1,1 @@
-# practical-react-example
-Created with CodeSandbox
+# practical-react
